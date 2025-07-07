@@ -31,6 +31,14 @@ Pre-built binaries are available for Linux:
      ```bash
      wget https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_386 -O FoxInject
      ```
+     ## Installation (Windows)
+1. **Download the binary** for your architecture:
+   - 64-bit: [FoxInject_windows_amd64.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_amd64.exe)
+   - 32-bit: [FoxInject_windows_386.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_386.exe)
+
+2. **Run from Command Prompt** (cmd):
+   ```cmd
+   FoxInject_windows_amd64.exe --help
 2. **Make the Binary Executable**:
    ```bash
    chmod +x FoxInject
@@ -155,6 +163,14 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
    ```bash
    chmod +x FoxInject
    ```
+   ## التثبيت (ويندوز)
+1. **حمّل الملف التنفيذي** المناسب لنظامك:
+   - 64 بت: [FoxInject_windows_amd64.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_amd64.exe)
+   - 32 بت: [FoxInject_windows_386.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_386.exe)
+
+2. **شغّل من موجه الأوامر** (cmd):
+   ```cmd
+   FoxInject_windows_amd64.exe --help
 3. **تثبيت التبعيات** (إذا كنت تستخدم ميزات محددة):
    - **sqlmap** (مطلوب لـ `--sql-mode sqlmap` أو `--sql-mode both`):
      ```bash
