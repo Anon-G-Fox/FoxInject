@@ -14,28 +14,17 @@ FoxInject is a security testing tool designed to identify web vulnerabilities su
 - Generate reports in JSON or HTML formats.
 - Pre-built binaries for Linux (32-bit and 64-bit).
 
-## Download
-Pre-built binaries are available for Linux:
-- **64-bit Linux**: [FoxInject_amd64](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_amd64)
-- **32-bit Linux**: [FoxInject_386](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_386)
-
-*Note*: Replace `<your-username>` and `<your-repo>` with your GitHub username and repository name after creating the release.
-
-## Installation
-1. **Download the Binary**:
-   - For 64-bit Linux:
+## Installation (Linux)
+   - For 64&32 Linux:
      ```bash
-     wget https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_amd64 -O FoxInject
-     ```
-   - For 32-bit Linux:
-     ```bash
-     wget https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_386 -O FoxInject
+     https://github.com/Anon-G-Fox/FoxInject.git
      ```
      ## Installation (Windows)
-1. **Download the binary** for your architecture:
-   - 64-bit: [FoxInject_windows_amd64.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_amd64.exe)
-   - 32-bit: [FoxInject_windows_386.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_386.exe)
 
+   For 64&32 Windows
+    ```
+    https://github.com/Anon-G-Fox/FoxInject.git
+     ```
 2. **Run from Command Prompt** (cmd):
    ```cmd
    FoxInject_windows_amd64.exe --help
@@ -122,10 +111,12 @@ Run the tool with the following command:
   ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Anonymous-islamic License
 
 ## Contact
 For inquiries, contact Anonymous-Islamic.
+Telegram: https://t.me/Anonymous0islamic
+Mail: Anonymous-islamic-Army@proton.me
 
 
 # FoxInject
@@ -142,33 +133,22 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
 - إنشاء تقارير بتنسيق JSON أو HTML.
 - ملفات تنفيذية جاهزة لنظام لينكس (32 بت و64 بت).
 
-## التنزيل
-الملفات التنفيذية الجاهزة متوفرة لنظام لينكس:
-- **لينكس 64 بت**: [FoxInject_amd64](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_amd64)
-- **لينكس 32 بت**: [FoxInject_386](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_386)
-
-*ملاحظة*: استبدل `<your-username>` و`<your-repo>` باسم المستخدم واسم المستودع على GitHub بعد إنشاء الإصدار.
-
 ## التثبيت
-1. **تنزيل الملف التنفيذي**:
-   - لنظام لينكس 64 بت:
-     ```bash
-     wget https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_amd64 -O FoxInject
-     ```
-   - لنظام لينكس 32 بت:
-     ```bash
-     wget https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_386 -O FoxInject
+    ```bash
+      git clone https://github.com/Anon-G-Fox/FoxInject.git
+
      ```
 2. **جعل الملف التنفيذي قابلًا للتشغيل**:
    ```bash
    chmod +x FoxInject
    ```
    ## التثبيت (ويندوز)
-1. **حمّل الملف التنفيذي** المناسب لنظامك:
-   - 64 بت: [FoxInject_windows_amd64.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_amd64.exe)
-   - 32 بت: [FoxInject_windows_386.exe](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/FoxInject_windows_386.exe)
 
-2. **شغّل من موجه الأوامر** (cmd):
+      ```
+      git clone https://github.com/Anon-G-Fox/FoxInject.git
+
+      ```
+2. **شغّل من موجه الأوامر** (cmd)
    ```cmd
    FoxInject_windows_amd64.exe --help
 3. **تثبيت التبعيات** (إذا كنت تستخدم ميزات محددة):
@@ -252,7 +232,9 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
   ```
 
 ## الترخيص
-هذا المشروع مرخص بموجب ترخيص MIT. راجع ملف [LICENSE](LICENSE) للحصول على التفاصيل.
+هذا المشروع مرخص بموجب ترخيص Anonymous islamic. 
 
 ## التواصل
 للاستفسارات، تواصل مع Anonymous-Islamic.
+تيلجرام : https://t.me/Anonymous0islamic
+بريد الالكتروني : Anonymous-islamic-Army@proton.me
