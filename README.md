@@ -102,7 +102,6 @@ Run the tool with the following command:
 ## Notes
 - The `--search` option is currently limited to `co.il` domains.
 - Logs are saved to `attack_log_<timestamp>.txt`, and results are stored in `attack_history.db`.
-- Use this tool responsibly and only with explicit permission from the target owner.
 - For API usage (if enabled), the server runs on `localhost:9932`. Test with:
   ```bash
   curl -X POST http://localhost:9932/hack -H "Content-Type: application/json" -d '{"target":"https://example.com","scanType":"sql","sqlMode":"internal","useNmap":false,"injectionType":""}'
@@ -133,10 +132,9 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
 - ملفات تنفيذية جاهزة لنظام لينكس (32 بت و64 بت).
 
 ## التثبيت
-    ```bash
+
       git clone https://github.com/Anon-G-Fox/FoxInject.git
 
-     ```
 2. **جعل الملف التنفيذي قابلًا للتشغيل**:
    ```bash
    chmod +x FoxInject
@@ -224,7 +222,6 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
 ## ملاحظات
 - خيار `--search` مقيد حاليًا بنطاقات `co.il`.
 - يتم حفظ السجلات في `attack_log_<timestamp>.txt`، وتُخزن النتائج في `attack_history.db`.
-- استخدم هذه الأداة بمسؤولية وفقط بإذن صريح من مالك الهدف.
 - لاستخدام API (إذا تم تفعيله)، يعمل الخادم على `localhost:9932`. اختبار باستخدام:
   ```bash
   curl -X POST http://localhost:9932/hack -H "Content-Type: application/json" -d '{"target":"https://example.com","scanType":"sql","sqlMode":"internal","useNmap":false,"injectionType":""}'
