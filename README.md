@@ -4,8 +4,6 @@
 
 FoxInject is a security testing tool designed to identify web vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Local/Remote File Inclusion (LFI/RFI), and Command Injection. It supports Linux systems (32-bit and 64-bit) and provides both command-line and (optional) API-based operation.
 
-**⚠️ Legal Disclaimer**: This tool is intended for **educational purposes and authorized security testing only**. Unauthorized use against systems without explicit permission is illegal and prohibited. The developers are not responsible for any misuse or damage caused by this tool.
-
 ## Features
 - Test for multiple web vulnerabilities: SQL Injection, XSS, LFI/RFI, and Command Injection.
 - Search for potentially vulnerable websites in the `co.il` domain (requires Google API keys).
@@ -115,7 +113,9 @@ This project is licensed under the Anonymous-islamic License
 
 ## Contact
 For inquiries, contact Anonymous-Islamic.
+
 Telegram: https://t.me/Anonymous0islamic
+
 Mail: Anonymous-islamic-Army@proton.me
 
 
@@ -123,7 +123,6 @@ Mail: Anonymous-islamic-Army@proton.me
 
 FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغرات الأمنية في مواقع الويب مثل الحقن الإس كيو إل (SQL Injection)، البرمجة النصية عبر المواقع (XSS)، تضمين الملفات المحلية/البعيدة (LFI/RFI)، وحقن الأوامر (Command Injection). تدعم الأداة أنظمة لينكس (32 بت و64 بت) وتوفر تشغيلًا عبر واجهة الأوامر مع خيار تشغيل عبر واجهة برمجة التطبيقات (API) اختياريًا.
 
-**⚠️ تنبيه قانوني**: هذه الأداة مخصصة **للأغراض التعليمية واختبارات الأمان المصرح بها فقط**. استخدام الأداة ضد أنظمة دون إذن صريح غير قانوني ومحظور. المطورون غير مسؤولين عن أي سوء استخدام أو ضرر ناتج عن هذه الأداة.
 
 ## المميزات
 - اختبار ثغرات ويب متعددة: الحقن الإس كيو إل، البرمجة النصية عبر المواقع، تضمين الملفات المحلية/البعيدة، وحقن الأوامر.
@@ -236,5 +235,7 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
 
 ## التواصل
 للاستفسارات، تواصل مع Anonymous-Islamic.
+
 تيلجرام : https://t.me/Anonymous0islamic
+
 بريد الالكتروني : Anonymous-islamic-Army@proton.me
