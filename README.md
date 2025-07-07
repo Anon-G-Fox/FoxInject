@@ -1,6 +1,6 @@
 # FoxInject
 
-![FoxInject Screenshot]([https://i.ibb.co/XkfKS2H/Screenshot-20250708-012023.png](https://i.ibb.co/XkfKS2HL/Screenshot-20250708-012023.png))
+![FoxInject Screenshot](https://i.ibb.co/XkfKS2HL/Screenshot-20250708-012023.png)
 
 FoxInject is a security testing tool designed to identify web vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Local/Remote File Inclusion (LFI/RFI), and Command Injection. It supports Linux systems (32-bit and 64-bit) and provides both command-line and (optional) API-based operation.
 
