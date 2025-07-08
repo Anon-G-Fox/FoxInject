@@ -46,7 +46,7 @@ FoxInject is a security testing tool designed to identify web vulnerabilities su
      sudo apt-get install nmap
      ```
 4. **Configure Google API** (required for `--search`):
-   - Create a `config.yaml` file in the same directory as the binary:
+   - Make sure that `config.yaml` file in the same directory as the binary:
      ```yaml
      google_api_key: "YOUR_GOOGLE_API_KEY"
      google_cse_id: "YOUR_GOOGLE_CSE_ID"
@@ -160,7 +160,7 @@ FoxInject هي أداة اختبار أمني مصممة لاكتشاف الثغ
      sudo apt-get install nmap
      ```
 4. **إعداد Google API** (مطلوب لـ `--search`):
-   - أنشئ ملف `config.yaml` في نفس دليل الملف التنفيذي:
+   - تأكد `config.yaml` في نفس دليل الملف التنفيذي:
      ```yaml
      google_api_key: "YOUR_GOOGLE_API_KEY"
      google_cse_id: "YOUR_GOOGLE_CSE_ID"
