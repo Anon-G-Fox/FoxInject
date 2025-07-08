@@ -1,0 +1,16 @@
+proxy:
+  sources:
+    - "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt"
+    - "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+  private_file: "private_proxies.txt"
+  timeout_seconds: 60
+  max_retries: 5
+  cache_duration_minutes: 30
+logging:
+  file: "attack_log_%s.txt"
+  level: "info"
+attack:
+  max_concurrent_requests: 5
+  request_timeout_seconds: 30
+google_api_key: "Use key here"
+google_cse_id: "Use key here"
