@@ -27,9 +27,7 @@ FoxInject is a security testing tool designed to identify web vulnerabilities su
    ```cmd
    FoxInject_windows_amd64.exe --help
 2. **Make the Binary Executable**:
-   ```bash
-   chmod +x FoxInject
-   ```
+ 
 3. **Install Dependencies** (if using specific features):
    - **sqlmap** (required for `--sql-mode sqlmap` or `--sql-mode both`):
      ```bash
